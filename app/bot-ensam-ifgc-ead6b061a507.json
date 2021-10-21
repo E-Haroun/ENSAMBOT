@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "bot-ensam-ifgc",
+    "private_key_id": "ead6b061a50710212b47c31d3128d2370fbf53c2",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOJ44QkrvIGC6q\noP6zZvPaesDGk3dLE4Z0bfrmnM+AleAqxMLrUufjtDpmSbNsV80YxcwyM/9UAorx\nv2dp5U6+qfDCB5xis5+BbA3oI0LBI0MMQfpWoomq/s6lbET1Ypw6fMSfmKCMF2//\nM9GrrQyTpBqm2vIIjSojLi6ElgtKrcBviXudCPi9iuZBWFjqlD7WBEdMWytU3jgm\nhtL2eWnMCUdxHqQHxMFSQLwXj8FQHr8n4Gm8i/bT3R06NFSfLOX3cs2lVaHFiE3/\nteUmfGigADvZEtMJT4RjP90jMna2kfaCrBM9MW3r44dMp1atCd5L3VL/L0l/9w+G\nUElnqDbNAgMBAAECggEAMBe0seOVSIzxqA8WVBJerXeJDNo+kGZd7b/xcgafdsMg\nEEImKcFFxQ5YuF+Vqp8CAvcz13tfY4ETWmm5TZA30k1xU8Z0QmdefNIRHXhKXKWm\nANBMfxT8ckZuvVMYdDlcsl1Efmnb/EqEb1/umDLu1euI5yd5IqsR6zKdGgOp3zHl\nq0yVXJ/5dg7CO5QA71u7iw1ot+oOrkmX8EeBbkp5oIE6ijwmW/bDHVjWaalAJr9+\n9pOkJQQkpnSf9ummzsVBaxYQzv+Im3Of3GtDX9c7LvJIDO7KDviitcZQnFDXOs2X\nCqnXpnWLVW2kUISpbNObbCkfdIGukJwpLvyLzBA9EQKBgQDz8sNAfErPqNSCVh6n\n4oceQoujS5lz5X9cy8L2Ca50wTuQLyOV6GRObMsh9UpxvF1qMxnXymmgrCbYJzjy\nDTAx08iOjchqqA2oSK5UsJzB6TuiloVnbNq5ddb3513A8ueFxJilEXn44Twg6LS4\nPtmI54H6xpOHh0qVqYLBaM+jUQKBgQDYVs+JwpAWRKKgi2GI0n3gfIyOxAZJhgvQ\nT0Irnk857cI9tP6OrfPoETNZSHdN4K0dHNFoieRBDjws9jAp54/rwQys9XrC4nOQ\nPEVCEfEQn4K7DglXVnhSnMkMK6TlUv8DtAs2ResTOL48NF58odYPh7hYTGoo5v37\niEpTg0FkvQKBgQCgpZ+7GZ7SfaXkZv4tJNpCLSRz1tcpIVrsKysqh1mhfZbR7pkK\noU1c7/wdUsFBgQArbZd5KczBiFzUP5AapmC0j3kll20B/8Vuqt5S2zN/5y3kdidH\n4sFvHJECFBUDeXLJ/ptfKNEf+oN0UIqiQpFSvNI16QtCVu/g+w4me/Uw4QKBgBz/\nBbIhMc7KREHgbKI6FEUSbIR2IaGZJdw1w1i1T0kkZPSAXd4h0p84Lvm4jMUTaCCO\nzEKGuOE/VzFvjeUP9GpU5a4I+PtF/tdGPMIuRXFE7/DCYN4j6NypxwiqkN9r0GJe\nr2IG3Qsmf9jx6/goeNh8CGlNVK1GyKP+EHhBD3LBAoGBAOmImOCdpuqoHvdiuoz9\nIECxqBDGlnd17daj679Bn0UFEtWzWbU/Z2+4mPzLGuHGpKCWhVNv43zrahBtzMmm\nJowYqmXnpHXQHfZPOVSWRwzsDy/0IBKIl1wb/3tQJqlWPqH2IU9B1W0opqvIZ4kU\nDXJpGiCW4gTXBS8C1UUknYNT\n-----END PRIVATE KEY-----\n",
+    "client_email": "ensam-bot@bot-ensam-ifgc.iam.gserviceaccount.com",
+    "client_id": "117506140994042483689",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ensam-bot%40bot-ensam-ifgc.iam.gserviceaccount.com"
+}
